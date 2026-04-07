@@ -1,0 +1,11 @@
+{
+  "model": "InsightFace buffalo_l (pretrained, no fine-tuning)",
+  "total_embeddings": 2629,
+  "skipped_images": 932,
+  "positive_pairs": 5000,
+  "negative_pairs": 5000,
+  "roc_auc": 0.7683,
+  "pr_auc": 0.7858,
+  "best_threshold": 0.2905,
+  "tar_at_far_1pct": 0.1634
+}

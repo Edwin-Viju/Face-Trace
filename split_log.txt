@@ -1,0 +1,20 @@
+DATASET SPLIT LOG
+=======================================================
+Strategy:
+  high_quality → 100% TRAIN
+  low_quality  → 80% TRAIN / 20% EVAL
+  Seed: 42
+
+Total persons : 8
+Total train   : 18725 (HQ:4468 + LQ:14257)
+Total eval    : 3561 (LQ only)
+
+Per-person breakdown:
+  ananthu | train: 3868 (HQ:845 LQ:3023) | eval: 755
+  Firoz | train: 1548 (HQ:758 LQ:790) | eval: 197
+  mujeeb | train: 1442 (HQ:648 LQ:794) | eval: 198
+  Ruvais | train: 927 (HQ:128 LQ:799) | eval: 199
+  sebin | train: 1835 (HQ:411 LQ:1424) | eval: 356
+  shinjil | train: 1503 (HQ:273 LQ:1230) | eval: 307
+  suresh | train: 6362 (HQ:838 LQ:5524) | eval: 1381
+  thomas | train: 1240 (HQ:567 LQ:673) | eval: 168

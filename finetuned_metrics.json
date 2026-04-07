@@ -1,0 +1,13 @@
+{
+  "model": "ResNet50 fine-tuned with ArcFace loss",
+  "checkpoint_epoch": 20,
+  "checkpoint_loss": 0.10021226051328704,
+  "embeddings": 2629,
+  "skipped": 932,
+  "positive_pairs": 5000,
+  "negative_pairs": 5000,
+  "roc_auc": 0.9378,
+  "pr_auc": 0.9407,
+  "best_threshold": 0.5705,
+  "tar_at_far_1pct": 0.4988
+}
